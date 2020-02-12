@@ -1,5 +1,7 @@
 # 2020-02-python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/2020-02-python/master)
+
 Install Python using Anaconda: https://www.anaconda.com/distribution/
 
 We will be using the Jupyter Notebook (via jupyter lab) which is pre-installed with the Anaconda distribution
